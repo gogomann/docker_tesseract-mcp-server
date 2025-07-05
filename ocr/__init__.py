@@ -1,0 +1,1 @@
+# OCR module for PDF to text conversion

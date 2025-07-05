@@ -1,0 +1,5 @@
+fastmcp
+pytesseract
+pdf2image
+tqdm
+python-dotenv
